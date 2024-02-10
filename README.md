@@ -9,7 +9,6 @@
 <a href="https://github.com/a25us/Ginger-Media/network/members"><img title="Forks" src="https://img.shields.io/github/forks/a25us8/Ginger-Media?color=lightgrey&style=flat-square"></a>
 <a href="https://github.com/a25us8/Ginger-Media/issues"><img title="issues" src="https://img.shields.io/github/issues/a25us8/Ginger-Media?style=flat-square">
 </a>
-https://github.com/a25us8/Ginger-Media.git
 </p>
 
 <p align="center">
@@ -18,7 +17,7 @@ https://github.com/a25us8/Ginger-Media.git
 
 ## live-link 🔗
 
-<a target="_blank" href="https://ginger-media-yz0x.onrender.com/"><b>https://ginger-media-yz0x.onrender.com/</b></a>
+<a target="_blank" href="https://ginger-media-yz0x.onrender.com/login"><b>https://ginger-media-yz0x.onrender.com/login</b></a>
 
 # main features
 
@@ -30,8 +29,8 @@ https://github.com/a25us8/Ginger-Media.git
 
 # Demo Creadential
 
-- email : - `rk1@gmail.com`
-- password: - `rk1@gmail.com`
+- email : - `ayuah000@gmail.com`
+- password: - `ayush@123`
 
 # tech stack used
 
