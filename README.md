@@ -5,11 +5,11 @@
 
 <p align="center">
 <a href="https://github.com/a25us8"><img title="Followers" src="https://img.shields.io/github/followers/a25us8?color=teal&style=flat-square"></a>
-<a href="https://github.com/a25us8GingerMediaGroup_Assignment/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/a25us8/GingerMediaGroup_Assignment?color=brown&style=flat-square"></a>
-<a href="https://github.com/a25us8GingerMediaGroup_Assignment/network/members"><img title="Forks" src="https://img.shields.io/github/forks/a25us8/GingerMediaGroup_Assignment?color=lightgrey&style=flat-square"></a>
-<a href="https://github.com/a25us8GingerMediaGroup_Assignment/issues"><img title="issues" src="https://img.shields.io/github/issues/a25us8/GingerMediaGroup_Assignment?style=flat-square">
+<a href="https://github.com/a25us8/Ginger-Media/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/a25us8/Ginger-Media?color=brown&style=flat-square"></a>
+<a href="https://github.com/a25us/Ginger-Media/network/members"><img title="Forks" src="https://img.shields.io/github/forks/a25us8/Ginger-Media?color=lightgrey&style=flat-square"></a>
+<a href="https://github.com/a25us8/Ginger-Media/issues"><img title="issues" src="https://img.shields.io/github/issues/a25us8/Ginger-Media?style=flat-square">
 </a>
-
+https://github.com/a25us8/Ginger-Media.git
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Database
 ```sh
 
 # Clone the repo
-$ git clone git remote add origin https://github.com/a25us8GingerMediaGroup_Assignment.git
+$ git clone git remote add origin https://github.com/a25us8/Ginger-Media.git
 
 # Install
 $ npm install
